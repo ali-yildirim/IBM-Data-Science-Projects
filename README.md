@@ -1,3 +1,3 @@
 # IBM-Data-Science-Projects
 
-In this repository, there are some of the IBM Data Science Projects completed throughout the professional certificate
+In this repository, you can find some of the data science projects completed throughout the IBM Data Science
