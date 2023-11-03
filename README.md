@@ -2,4 +2,4 @@
 
 In this repository, you can find some of the data science projects completed throughout the IBM Data Science Professional Certificate.
 
-I'll upload more at my convenience. 
+I'll upload more projects at my earliest convenience. 
