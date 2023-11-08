@@ -4,4 +4,4 @@ In this repository, you can find some of the data science projects completed thr
 
 I'll upload more projects at my earliest convenience. 
 
-<!--- dont forget to upload the Data Science Capstone 1 
+<!--- dont forget to upload the Data Science Capstone 12 
